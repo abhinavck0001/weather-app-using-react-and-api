@@ -1,0 +1,18 @@
+.result{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: #b6adad;
+}
+
+.result_box{
+
+    padding: 10px;
+    text-align: center;
+    background-color:#64e10e;
+    border-radius:10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0 5px 6px;
+    width: 30%;
+}
